@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="80">
+  <rect width="300" height="80" fill="#eee"/>
+  <image x="4" y="4" width="40" height="40" href="https://raw.githubusercontent.com/arielnabavian/gh-render-probe/main/test.png"/>
+  <image x="60" y="4" width="40" height="40" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAIAgMAAAAOEsXcAAAADFBMVEUA/wD/AAAAAP//zNoWKgAAABFJREFUCNdjYGBgYPjPwMAAAAoAAX+M2BsAAAAASUVORK5CYII="/>
+  <text x="120" y="30" font-family="DejaVu Sans" font-size="14">DejaVu</text>
+  <text x="120" y="55" font-family="Inter" font-size="14">Inter(absent)</text>
+</svg>
